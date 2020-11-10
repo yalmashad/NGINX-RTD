@@ -18,7 +18,7 @@
 
 import sys
 import sphinx
-import sphinx_rtd_theme
+#import sphinx_rtd_theme
 from sphinx.errors import VersionRequirementError
 
 
